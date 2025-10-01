@@ -10,6 +10,7 @@ be used with [Godot Engine](https://godotengine.org), the open source
 - The [`3.x`](https://github.com/godotengine/godot-demo-projects/tree/3.x) branch is compatible with Godot's `3.x` development branch (next 3.x release).
 - The other branches are compatible with the matching stable versions of Godot:
   - [`4.3`](https://github.com/godotengine/godot-demo-projects/tree/4.3)
+    branch for Godot 4.3.x.
   - [`4.2`](https://github.com/godotengine/godot-demo-projects/tree/4.2)
     branch for Godot 4.2.x.
   - [`4.1`](https://github.com/godotengine/godot-demo-projects/tree/4.1)
